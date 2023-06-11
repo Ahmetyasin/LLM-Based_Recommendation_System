@@ -1,3 +1,3 @@
 # DL_project
 
-Private repo for the project on Fine-tuning
+Private repo for the project on Fine-tuning an LLM on Recommendation Task (CS 515)
